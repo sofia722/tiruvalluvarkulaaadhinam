@@ -1,5 +1,4 @@
 # tiruvalluvar kula aadhinam arakatalai
-<!doctype html>
 <html>
   <body>
     <h3>SCIENTIFIC ASTROLOGY CONSULTING CENTER</H3>
